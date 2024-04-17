@@ -1,4 +1,4 @@
-# SQL-Projekt für Kreditrisikoanalyse und Risikobewertung
+# SQL-Projekt für Kreditrisikoanalyse und Risikobewertung-Mohsen.Sabziyan
 
 ## Projektbeschreibung
 
